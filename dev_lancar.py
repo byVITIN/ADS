@@ -1,4 +1,4 @@
-from main import resposta_materia
+from main import resposta_materia 
 def lancar():
     while True:
         try:
